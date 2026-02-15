@@ -6,6 +6,10 @@
 This is an END-TO-END Power BI project developed to analyze the ECommerce sales performance.The dashboard provides a comprehensive view of business health by tracking key 
 metrics,identifying sales trends,and understanding customer purchasing patterns.
 
+#Project Type
+
+This project was independently developed as a self-learning inititative to apply data cleaning,analysis,and dashboard creation skills using Power BI.
+
 ##Objective
 
 The primary goal of this project was to transform raw ecommerce data into an interactive visual tool.This helps the business identify profitable regions,top-selling product
